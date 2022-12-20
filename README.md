@@ -19,7 +19,7 @@
 <summary><b>Menu requirements</b></summary>
   <br>
 Create a menu for your matrix game. You should use the joystick to scroll on the LCD. The menu should include the following <b>functionalities</b>:
-  <br>
+
 a) Start game: starts the initial level of your game
  
 b) Highscore: initially, it is 0. Update it when the game is done. Save the top 5 values in EEPROM with name and score
