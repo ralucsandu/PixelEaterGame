@@ -92,7 +92,10 @@ Also:
         * LCD Brightness
         * Mtx Brightness
         * Sound (ON/OFF)
-   
+      
+   * __About__ : details about the creator (game name, author, GitHub user)
+
+   * __How to play__ : brief instructions for the game
     
     
   
