@@ -56,3 +56,10 @@ Also:
   <b>e)</b> The levels must progress <b>dynamically</b>;
   
   </details>
+  
+  ## Game Description and Inspiration
+  
+  Everybody knows the <b>Pac-Man</b> game, which was released for the first time in May 22th, 1980. The idea behind <b>Pixel Eater</b> comes from this so loved game, which all off us played at some point of our lives. In <b>Pixel Eater</b>, the goal of the player is to eat all of the pixels making up the shapes displayed on the led matrix, while doing his/her best to achieve a highscore. 
+  
+  
+  
