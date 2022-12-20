@@ -87,11 +87,11 @@ Also:
   * __Highscores__ : top 5 values are displayed on the LCD. The default values have the following format: TBD(to be decided): 0.
     
    * __Settings__ : 
-        *Level
-        *LCD Contrast
-        *LCD Brightness
-        *Mtx Brightness
-        *Sound (ON/OFF)
+        * Level
+        * LCD Contrast
+        * LCD Brightness
+        * Mtx Brightness
+        * Sound (ON/OFF)
    
     
     
