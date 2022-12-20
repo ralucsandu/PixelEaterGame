@@ -16,7 +16,6 @@
 ## Task
 
 <details open>
-<summary>Menu requirements </summary>
-<br>
+<summary><b>Menu requirements<b> </summary>
 test
 </details>
