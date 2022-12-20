@@ -88,6 +88,10 @@ Also:
     
    * __Settings__ : 
         *Level
+        *LCD Contrast
+        *LCD Brightness
+        *Mtx Brightness
+        *Sound (ON/OFF)
    
     
     
