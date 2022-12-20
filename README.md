@@ -109,7 +109,11 @@ Also:
   
   After that, when entering the Highscores section of the menu, their name will be displayed there. 
   
-## Setup Pictures
+## Easter Egg
+
+  When scoring a multiple of 100, the score is doubled.
+  
+## Setup Picture
 ![alt text](https://github.com/ralucsandu/PixelEaterGame/blob/main/setup-picture.jpg?raw=true)
     
   ## YouTube demo
