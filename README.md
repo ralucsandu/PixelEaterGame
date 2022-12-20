@@ -33,9 +33,20 @@ Create a menu for your matrix game. You should use the joystick to scroll on the
 
 Also: 
 
-- When powering up the game: a greeting message should be shown for a few moments;
+  <b>- When powering up the game:</b> a greeting message should be shown for a few moments;
 
-- While playing the game: display all the relevant info(lives, score, time);
+  <b>- While playing the game:</b> display all the relevant info(lives, score, time);
 
-- Upon game ending: message to inform the player if they beat the highscore; 
+  <b>- Upon game ending:</b> message to inform the player if they beat the highscore; 
 </details>
+
+<details open>
+  <summary><b>Game requirements</b></summary>
+  <br>
+  The requirements for the game are the following:
+  
+  <b>a)Minimal components:</b> an LCD, a joystick, a buzzer and the led matrix
+  <b>b)Basic sounds to the game:</b> when "eating" a pixel
+     c)It must be intuitive and fun to play; it must make sense in the current setup; the level must progress dynamically
+  
+  </details>
