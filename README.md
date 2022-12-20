@@ -78,15 +78,15 @@ Also:
   
   By toggling the Y axis, the user can scroll up and down through the menu and its subsections.
   
-    * <b> Game Menu </b> : a static title;
+    *  __Game Menu__ : a static title;
     
-    * <b> Reset HS </b> : a question is displayed on the screen. The user can press YES or NO if he/she wants/does not want to reset the highscore table;
+    * __Reset HS__ : a question is displayed on the screen. The user can press YES or NO if he/she wants/does not want to reset the highscore table;
     
-    * <b> Start Game </b> : the game starts on the led matrix. The timer, the lives and the score are displayed on the LCD screen;
+    * __Start Game__ : the game starts on the led matrix. The timer, the lives and the score are displayed on the LCD screen;
     
-    * <b> Highscores </b> : top 5 values are displayed on the LCD. The default values have the following format: TBD(to be decided): 0.
+    * __Highscores__ : top 5 values are displayed on the LCD. The default values have the following format: TBD(to be decided): 0.
     
-    * <b> Settings </b> : 
+    * __Settings__ : 
         * Level
    
     
