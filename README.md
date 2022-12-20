@@ -65,5 +65,30 @@ Also:
   
   In <b>Pixel Eater</b>, the goal of the player is to eat all of the pixels making up the shapes displayed on the led matrix, while doing his/her best to achieve a highscore. 
   
+
+## How to use the menu
+
+  When powering on the setup, a welcome message will be displayed on the LCD screen.  
   
+  After that, the menu will be displayed on the screen.
+  
+  By toggling the X axis to the right (as the ">" symbol indicates), the user can enter a subsection of the menu. 
+  
+  By toggling the Y axis to the left (as the "<" symbol indicates), the user can exit from a subsection of the menu.
+  
+  By toggling the Y axis, the user can scroll up and down through the menu and its subsections.
+  
+    * <b> Game Menu </b> : a static title;
+    
+    * <b> Reset HS </b> : a question is displayed on the screen. The user can press YES or NO if he/she wants/does not want to reset the highscore table;
+    
+    * <b> Start Game </b> : the game starts on the led matrix. The timer, the lives and the score are displayed on the LCD screen;
+    
+    * <b> Highscores </b> : top 5 values are displayed on the LCD. The default values have the following format: TBD(to be decided): 0.
+    
+    * <b> Settings </b> : 
+        * Level
+   
+    
+    
   
