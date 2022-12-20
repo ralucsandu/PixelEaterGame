@@ -97,5 +97,16 @@ Also:
 
    * __How to play__ : brief instructions for the game
     
+  ## How to play the game
+  
+  After choosing the "Start Game" option from the menu, the game will start from the chosen level. 
+  
+  The levels differ by timer (60secs for level 1, 30 for level 2, 20 for level 3, 15 for level 4), by number of points/pixel(1 point/pixel at level 1, 2 at level 2, 3 at level 3 and 4 at level 4) and by the user's ability to break the walls (this is possible only for levels 1 and 2). 
+  
+  Once the game starts, the timer starts to count down. The shapes are randomly displayed. If the time is over and the user didn't get to eat all the pixels, she/he loses a life. Otherwise, she/he is automatically moved to the next round. At each round, the time decreases by 5 seconds/round, until reaching 15 seconds. Then, the time decreases by 1 second/round. 
+  
+  If the user beats one of the 5 scores from the leaderboard, a message is displayed on the LCD and he/she has to enter his/her name. 
+  
+  After that, when entering the Highscores section of the menu, their name will be displayed there. 
     
   
