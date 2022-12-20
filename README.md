@@ -109,8 +109,8 @@ Also:
   
   After that, when entering the Highscores section of the menu, their name will be displayed there. 
   
-  ## Setup pictures
-    todo
+## Setup Pictures
+![alt text](https://github.com/ralucsandu/PixelEaterGame/blob/main/setup-picture.jpg?raw=true)
     
   ## YouTube demo
  https://youtu.be/Jilh5phy32A
