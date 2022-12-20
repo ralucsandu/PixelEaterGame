@@ -45,14 +45,14 @@ Also:
   <br>
   The requirements for the game are the following:
   
-  <b>a)Minimal components:</b> an LCD, a joystick, a buzzer and the led matrix;
+  <b>a) Minimal components:</b> an LCD, a joystick, a buzzer and the led matrix;
   
-  <b>b)Basic sounds to the game:</b> when "eating" a pixel;
+  <b>b) Basic sounds to the game:</b> when "eating" a pixel;
   
-  <b>c)</b>It must be <b>intuitive</b> and <b>fun</b> to play;
+  <b>c)</b> It must be <b>intuitive</b> and <b>fun</b> to play;
   
-  <b>d)</b>It must <b>make sense</b> in the current setup;
+  <b>d)</b> It must <b>make sense</b> in the current setup;
   
-  <b>e)</b>The levels must progress <b>dynamically</b>;
+  <b>e)</b> The levels must progress <b>dynamically</b>;
   
   </details>
