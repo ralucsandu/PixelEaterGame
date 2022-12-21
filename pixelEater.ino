@@ -396,7 +396,7 @@ void level12() {
   if (yValueGame < minThreshold && joyMoved == false && xValueGame >= minThreshold && xValueGame <= maxThreshold) {
     playerX--;
     if (playerX == invalidPosition)
-      playerX = matrixSize;
+      playerX = matrixSize-1;
     joyMoved = true;
   }
 
@@ -412,7 +412,7 @@ void level12() {
   else if (xValueGame < minThreshold && joyMoved == false && yValueGame >= minThreshold && yValueGame <= maxThreshold) {
     playerY--;
     if (playerY == invalidPosition)
-      playerY = matrixSize;
+      playerY = matrixSize-1;
     joyMoved = true;
   }
 
